@@ -3,7 +3,7 @@ This project leverages Quanser Simulation Lab in an environment that uses a ultr
 
 ## How It Works
 
-### Q-Bot Simulation (Q-Labs Python Files/Student_Files/P3_Simulation_Template.py)
+### Q-Bot Simulation 
 
 The core functionality of this project revolves around loading containers from a bottle dispensary into the Q-Bot using a Q-arm and having the Q-Bot travel around a line-track and dispense the containers into appropriate bins. 
 The Q-Bot follows the line using an IR sensor and a set of calls that determine how to adjust the wheel position and speed based on the input from the IR sensor. In order to dump the bottles into the appropriate bins, the robot uses an
